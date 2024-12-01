@@ -1,5 +1,7 @@
 # Water Reminder App 💧
 
+<img width="310" alt="image" src="https://github.com/user-attachments/assets/b76c151e-5622-4cbe-8992-32ac0c96cfac">
+
 An **Expo React Native** application designed to help users stay hydrated by reminding them to drink water at regular intervals. The app also recommends the optimal daily water intake based on user inputs such as age, weight, and activity level.  
 
 ## Features 🚀
